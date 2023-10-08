@@ -10,7 +10,7 @@ Designed for those who like modern UI elements and beautiful websites. Made of h
 
 We created many examples for pages like Sign In, Profile and so on. Just choose between a Basic Design, an illustration or a cover and you are good to go!
 
-**Fully Coded Elements**
+**Fully Coded Elements**. 
 
 Vision UI Dashboard React is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using MUI's style props.
 
